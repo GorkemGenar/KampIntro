@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GitTest
+namespace ConsoleApp1
 {
     class Program
     {
