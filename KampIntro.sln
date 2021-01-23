@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{5F15A8B0-5EB3-4CED-9C4A-443AAD34741D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{29FB9595-26AB-438E-9A64-53BBBDF8F326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{29FB9595-26AB-438E-9A64-53BBBDF8F326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{6166634B-B4A1-4528-9256-F02070B879DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{BF38653E-3E53-4C2B-B73E-9AD2C724FCC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{29FB9595-26AB-438E-9A64-53BBBDF8F326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29FB9595-26AB-438E-9A64-53BBBDF8F326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29FB9595-26AB-438E-9A64-53BBBDF8F326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6166634B-B4A1-4528-9256-F02070B879DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6166634B-B4A1-4528-9256-F02070B879DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6166634B-B4A1-4528-9256-F02070B879DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6166634B-B4A1-4528-9256-F02070B879DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF38653E-3E53-4C2B-B73E-9AD2C724FCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF38653E-3E53-4C2B-B73E-9AD2C724FCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF38653E-3E53-4C2B-B73E-9AD2C724FCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF38653E-3E53-4C2B-B73E-9AD2C724FCC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
